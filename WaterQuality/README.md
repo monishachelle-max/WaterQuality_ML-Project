@@ -68,7 +68,7 @@ python database/seed_database.py
 python backend/app.py
 ```
 
-**6. Open the website:** go to **http://localhost:5000**
+**6. Open the website:** go to 
 
 That's it — the prediction form, dataset dashboard, model performance
 table, and prediction history are all live.
